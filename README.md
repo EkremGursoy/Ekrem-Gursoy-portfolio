@@ -9,7 +9,8 @@ About Me
 I am passionate about web development and constantly striving to improve my skills. I specialize in creating responsive and user-friendly websites using the core technologies of HTML, CSS, and JavaScript. I am excited about building creative and functional web applications and learning new techniques to enhance my projects.
 
 *Student at Noroff
-*Skills: [icons8-js-48](https://github.com/user-attachments/assets/14363992-fa69-45b4-84e5-1421f8ac10d7)
+*Skills: 
+[icons8-js-48](https://github.com/user-attachments/assets/14363992-fa69-45b4-84e5-1421f8ac10d7)
 ![icons8-html-48](https://github.com/user-attachments/assets/c34bf4ba-5424-4f2c-860e-c7a5e07e3028)
 ![icons8-figma-48](https://github.com/user-attachments/assets/014622ce-10b5-4726-93a3-46d415ef7284)
 ![icons8-css-48](https://github.com/user-attachments/assets/0571f585-9b1a-4a76-a971-c501849bccd8)
